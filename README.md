@@ -18,3 +18,6 @@ Use the table below to find a video you're interested in, and use the **Release*
   - [Java section](https://azure.github.io/AppService/java/): Java-centric articles from the teams.
 - [Java on App Service Docs](https://docs.microsoft.com/azure/app-service/configure-language-java?pivots=platform-linux): Configuration guide and reference documentation for Java on App Service.
 - [Azure Dev Center for Java](https://docs.microsoft.com/azure/developer/java/): Central webpage for documentation, libraries, and guides for running Java applications on Azure.
+
+VIDEO:
+https://www.youtube.com/watch?v=CPsI1KnVSOM
